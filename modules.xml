@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/15.Detection of Phishing Websites.iml" filepath="$PROJECT_DIR$/.idea/15.Detection of Phishing Websites.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ml/.idea/Website-Phising-Detection-using-Machine-Learning--master.iml" filepath="$PROJECT_DIR$/../ml/.idea/Website-Phising-Detection-using-Machine-Learning--master.iml" />
-    </modules>
-  </component>
-</project>
